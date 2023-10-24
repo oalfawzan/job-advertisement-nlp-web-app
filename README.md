@@ -23,10 +23,14 @@ The project consists of two main milestones:
 ### 1. For Milestone I tasks:
 
 - Execute the Jupyter notebooks:
-- - `milstone-1-task-1.ipynb`
-- - `milstone-1-task-2-3.ipynb`
+  - `milstone-1-task-1.ipynb`
+  - `milstone-1-task-2-3.ipynb`
 
 ### 2. For Milestone II (Flask Web App):
+
+- Place the Models in the Appropriate Directory:
+  - Download the provided models: "desc_FT.model", and "descFT_LR.pkl".
+  - Place these models inside the job-ads folder.
 
 - Navigate to the `job-ads` directory:
   
