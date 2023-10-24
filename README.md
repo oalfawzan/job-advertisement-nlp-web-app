@@ -28,9 +28,11 @@ The project consists of two main milestones:
 
 ### 2. For Milestone II (Flask Web App):
 
-- Navigate to the `job-ads` directory: ```cd job-ads```
-- Run the Flask application: ```python app.py```
-- Open a web browser and navigate to ```http://127.0.0.1:5000/``` to access the website.
+- Navigate to the `job-ads` directory:
+  ```cd job-ads```
+- Run the Flask application:
+  ```python app.py```
+- Open a web browser and navigate to `http://127.0.0.1:5000/` to access the website.
 
 ## Acknowledgements
 
