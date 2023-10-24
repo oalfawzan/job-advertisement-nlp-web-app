@@ -5,7 +5,7 @@ This repository contains the implementation of a web-based job advertisement app
 ## Overview
 
 - **Author**: Osama Alfawzan
-- **Date**: 2023-10-02
+- **Date**: 2022-10-02
   
 The project consists of two main milestones:
 
