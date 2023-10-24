@@ -20,7 +20,7 @@ The project consists of two main milestones:
 
 ## Running the Code
 
-### 1. For Milestone I tasks:
+### For Milestone I tasks:
 
 - Execute the Jupyter notebooks:
 - - `milstone-1-task-1.ipynb`
