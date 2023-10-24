@@ -20,13 +20,13 @@ The project consists of two main milestones:
 
 ## Running the Code
 
-1. For Milestone I tasks:
+### 1. For Milestone I tasks:
 
 - Execute the Jupyter notebooks:
 - - `milstone-1-task-1.ipynb`
 - - `milstone-1-task-2-3.ipynb`
 
-2. For Milestone II (Flask Web App):
+### 2. For Milestone II (Flask Web App):
 
 - Navigate to the `job-ads` directory: `cd job-ads`
 - Run the Flask application: `python app.py`
