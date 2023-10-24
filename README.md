@@ -22,6 +22,8 @@ The project consists of two main milestones:
 
 ### 1. For Milestone I tasks:
 
+- Download the data folder
+
 - Execute the Jupyter notebooks:
   - `milstone-1-task-1.ipynb`
   - `milstone-1-task-2-3.ipynb`
